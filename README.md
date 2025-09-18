@@ -1,4 +1,5 @@
 # Bin
+
 Full of the rubbish Chingxu-Ying made.
 
 全是垃圾。。。想用就用吧。。。
@@ -11,7 +12,11 @@ Full of the rubbish Chingxu-Ying made.
 
 支持自定义单词表，先英文后中文，中间用 `::` 隔开。
 
-后面忘了。
+目前有两个词表，一个是 $100$ 词测试词表，一个是六级核心词表。
+
+如果你不想测完，输入 `END` 即可进入结算。
+
+要测的词表记得重命名成 `word.txt`。
 
 ## 口语-100最新人机
 
