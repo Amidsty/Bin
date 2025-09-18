@@ -1,6 +1,6 @@
 # Bin
 
-Full of the rubbish Chingxu-Ying made.
+Full of the rubbish @Amidsty made.
 
 全是垃圾。。。想用就用吧。。。
 
